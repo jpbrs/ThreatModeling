@@ -22,4 +22,18 @@ The design phase is the starting ground for your threat modeling activities. You
 | Data	| What type of data will be created or handled by the system? What will the data classification type be? How will the system | trust data sources? How will it parse data? What will be the | expected input and output behaviors? How will validation be handled? How will data be encrypted across all states? |
 | Secrets management | How will the system handle keys, certificates, and credentials? |
 
-Create a data-flow Diagram
+## Create a data-flow Diagram
+
+Use the answers to create a data-flow diagram. It shows data across each stage in the data lifecycle, and includes changes in trust zones. Examples include:
+
+1. Human users signing into your web application hosted in Azure to access data
+2. Administrators changing default security configurations for elastic resources used by the web application
+3. Automated daily scripts that monitor activity logs for the web application and notifies administrators of any anomalies
+
+## Diagraming tools
+Tools available today:
+
+1. Threat Modeling Tool
+2. Visio
+3. OWASP Threat Dragon
+4. Cairis
