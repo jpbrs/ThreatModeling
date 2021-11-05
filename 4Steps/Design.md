@@ -37,3 +37,7 @@ Tools available today:
 2. Visio
 3. OWASP Threat Dragon
 4. Cairis
+
+## Diagram Shapes
+
+![](DiagramShapes.png)
