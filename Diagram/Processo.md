@@ -14,7 +14,7 @@ Exemplos Incluem:
 | Contexto | Perguntas |
 | -------- | --------- |
 | Código | Esse processo está sendo executado em C#, C++, Objective C, Java ou em uma linguagem de script? |
-| Nível de permissão	 | Esse processo precisa de permissões no nível de kernel, local ou administração para ser executado? |
+| Nível de permissão | Esse processo precisa de permissões no nível de kernel, local ou administração para ser executado? |
 | Isolamento de serviço	 | O processo está sendo executado em uma área restrita? |
 | Entrada | Esse processo pode aceitar entrada de todos, de contas locais ou apenas de administradores? |
 | Validação | Como o processo analisa, trata e aceita a entrada? |
